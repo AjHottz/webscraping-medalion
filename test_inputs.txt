@@ -1,0 +1,5 @@
+Qual categoria tem o maior valor em estoque, em reais?
+Quantos livros bem avaliados custam menos de £20?
+Quantos livros únicos temos na base?
+Qual o preço médio por faixa de preço?
+sair
